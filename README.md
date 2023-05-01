@@ -1,2 +1,3 @@
-# DataStructures-270
- Project Files for CSC-270-02
+# CSC-Course Files and Projects
+
+ Project Files for CSC
