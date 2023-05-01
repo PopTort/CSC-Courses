@@ -1,0 +1,11 @@
+ID	Name	Quiz1	Quiz2	Midterm	Final	Avg.	Grade
+null	null	0	0	0	0	0.0	null
+null	null	0	0	0	0	0.0	null
+null	null	0	0	0	0	0.0	null
+null	null	0	0	0	0	0.0	null
+null	null	0	0	0	0	0.0	null
+null	null	0	0	0	0	0.0	null
+null	null	0	0	0	0	0.0	null
+null	null	0	0	0	0	0.0	null
+null	null	0	0	0	0	0.0	null
+null	null	0	0	0	0	0.0	null
